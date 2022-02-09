@@ -1,0 +1,1 @@
+# DateProCleanThis will prompt for a last_used day and will purge profiles according to selection.A seperate file is provided that has detailed usage directions.
