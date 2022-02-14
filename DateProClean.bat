@@ -25,7 +25,7 @@ Title Midwest User Profile Clean-Up
 	:: while they are logged in. This will prevent the users account
 	:: from becoming corrupted - IE... partial removal.
 	:: ==================================================================
-	SET domain=wfm
+	SET domain=
 	
 	:: HOW MANY DAYS OLD SHOULD A PROFILE BE BEFORE DELETION?
 	:: ==================================================================
